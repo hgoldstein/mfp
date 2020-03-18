@@ -10,6 +10,7 @@ black = "*"
 requests = "*"
 bs4 = "*"
 httpx = "*"
+spotipy = "*"
 
 [requires]
 python_version = "3.6"
