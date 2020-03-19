@@ -10,5 +10,6 @@ Running this script and following the instructions will create a Spotify playlis
 ```
 $ git clone https://github.com/hgoldstein/mfp 
 $ cd mfp
+$ # Add SPOTIPY_CLIENT_ID, SPOTIPY_CLIENT_SECRET, SPOTIFY_USERNAME, and SPOTIPY_REDIRECT_URI to `.env`
 $ pipenv run -- python3 mfp.py
 ```
